@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Contains references to global search configurations to be consumed by search components</description>
+        <name>global_search_configurations</name>
+        <page display_value="">afcbc01be0144210bd965898aaf0e25e</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 17:55:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a7cbc01b391442109e3bfde3fc0f894d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_ux_page_property_a7cbc01b391442109e3bfde3fc0f894d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 17:55:14</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1319361_fluency.afcbc01be0144210bd965898aaf0e25e.root.global_search_configurations</unique_name>
+        <value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ux_page_property_a7cbc01b391442109e3bfde3fc0f894d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Contains references to global search configurations to be consumed by search components</description><name>global_search_configurations</name><page display_value="">afcbc01be0144210bd965898aaf0e25e</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:55:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a7cbc01b391442109e3bfde3fc0f894d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_search_configurations</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ux_page_property_a7cbc01b391442109e3bfde3fc0f894d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:55:14</sys_updated_on><type>json</type><unique_name>x_1319361_fluency.afcbc01be0144210bd965898aaf0e25e.root.global_search_configurations</unique_name><value>{&#13;
+    "globalSearchViewConfigId": "97a574ea53c0130084acddeeff7b12a6",&#13;
+"globalSearchRoute": "search"&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1133826326</payload_hash>
+        <record_name>global_search_configurations</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:36:48</sys_created_on>
+        <sys_id>7c55941b97184210caadba6de053af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db334f3210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:36:48</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>3c55941ba4184210bab3e29622e80726</update_guid>
+        <update_guid_history>3c55941ba4184210bab3e29622e80726:1133826326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:36:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0395a4d4fff74ec191970fd2407ad0d1</sys_id>
+        <sys_metadata>a7cbc01b391442109e3bfde3fc0f894d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a7cbc01b391442109e3bfde3fc0f894d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a7cbc01b391442109e3bfde3fc0f894d">7c55941b97184210caadba6de053af26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:36:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1319361_fluency.Audience for app fluency2</api_name>
+        <description/>
+        <name>Audience for app fluency2</name>
+        <roles>4ec9b80397948210caadba6de053af18,86c9b80397948210caadba6de053af15,cac9b80397948210caadba6de053af1b</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 17:55:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>64db441b97144210caadba6de053af7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app fluency2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_ux_applicability_64db441b97144210caadba6de053af7c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 17:55:17</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

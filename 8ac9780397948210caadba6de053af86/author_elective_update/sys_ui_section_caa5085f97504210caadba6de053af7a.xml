@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="caa5085f97504210caadba6de053af7a" sys_domain="global" table="x_1319361_fluency_incident" version="3" view="workspace-fluency-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>82a5085f97504210caadba6de053af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_score</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>82a5485f97504210caadba6de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>count</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>4aa5085f97504210caadba6de053af7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>0aa5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>06a5085f97504210caadba6de053af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>behavior_rules</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>06a5485f97504210caadba6de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>02a5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>key_type</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>8aa5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>key</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>86a5085f97504210caadba6de053af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>86a5485f97504210caadba6de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>82a5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>0ea5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>day_index</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>8ea5485f97504210caadba6de053afc2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risks</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>0aa5485f97504210caadba6de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignedto</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>06a5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>8ea5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>02a5485f97504210caadba6de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>updatedon</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>8aa5485f97504210caadba6de053afc3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>86a5085f97504210caadba6de053af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_id>02a5085f97504210caadba6de053af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1319361_fluency_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:28:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>caa5085f97504210caadba6de053af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1319361_fluency_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+            <sys_update_name>sys_ui_section_caa5085f97504210caadba6de053af7a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:28:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace fluency 0" name="workspace-fluency-0">ff95c05fb2504210d4dd9ad6c44fcb4d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ui_section_caa5085f97504210caadba6de053af7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="caa5085f97504210caadba6de053af7a" sys_domain="global" table="x_1319361_fluency_incident" version="3" view="workspace-fluency-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>from</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>82a5085f97504210caadba6de053af7f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>risk_score</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>82a5485f97504210caadba6de053afc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>count</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>4aa5085f97504210caadba6de053af7d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>0aa5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>to</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>06a5085f97504210caadba6de053af7f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>behavior_rules</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>06a5485f97504210caadba6de053afc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>02a5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>key_type</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>8aa5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>key</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>86a5085f97504210caadba6de053af7f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>id</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>86a5485f97504210caadba6de053afc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>82a5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>0ea5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>day_index</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>8ea5485f97504210caadba6de053afc2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>risks</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>0aa5485f97504210caadba6de053afc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignedto</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>06a5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>url</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>8ea5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>02a5485f97504210caadba6de053afc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>updatedon</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>8aa5485f97504210caadba6de053afc3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>86a5085f97504210caadba6de053af7e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_id>02a5085f97504210caadba6de053af7f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1319361_fluency_incident" sys_domain="global" view="ff95c05fb2504210d4dd9ad6c44fcb4d">caa5085f97504210caadba6de053af7a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1319361_fluency_incident</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>caa5085f97504210caadba6de053af7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1319361_fluency_incident</sys_name><sys_overrides/><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ui_section_caa5085f97504210caadba6de053af7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:20</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace fluency 0" name="workspace-fluency-0">ff95c05fb2504210d4dd9ad6c44fcb4d</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1484745083</payload_hash>
+        <record_name>incident</record_name>
+        <reverted_from/>
+        <source>4ac9780397948210caadba6de053af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:37:12</sys_created_on>
+        <sys_id>3665105b97184210caadba6de053afa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db335536b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:37:12</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f265105b46184210d471c716744a02a0</update_guid>
+        <update_guid_history>f265105b46184210d471c716744a02a0:1484745083</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:37:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1e5986a1d5734f00ab721c80de3e5100</sys_id>
+        <sys_metadata>caa5085f97504210caadba6de053af7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319361_fluency_incident</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent display_value="">ed50490397588210caadba6de053af45</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ui_section_caa5085f97504210caadba6de053af7a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_caa5085f97504210caadba6de053af7a">3665105b97184210caadba6de053afa0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:37:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

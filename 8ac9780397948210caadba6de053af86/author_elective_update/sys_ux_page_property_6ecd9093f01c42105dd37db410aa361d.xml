@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="">6acd9093981c42109f02b3006eebcb3b</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 19:13:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6ecd9093f01c42105dd37db410aa361d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_ux_page_property_6ecd9093f01c42105dd37db410aa361d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 19:13:49</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1319361_fluency.6acd9093981c42109f02b3006eebcb3b.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ux_page_property_6ecd9093f01c42105dd37db410aa361d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_notification_uiRoute</name><page display_value="">6acd9093981c42109f02b3006eebcb3b</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 19:13:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>6ecd9093f01c42105dd37db410aa361d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_notification_uiRoute</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ux_page_property_6ecd9093f01c42105dd37db410aa361d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 19:13:49</sys_updated_on><type>string</type><unique_name>x_1319361_fluency.6acd9093981c42109f02b3006eebcb3b.root.chrome_notification_uiRoute</unique_name><value>cb1af195872023002941b53046cb0b4e</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-190168794</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:13:46</sys_created_on>
+        <sys_id>f39303cc97200210caadba6de053afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc1ee24550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:13:46</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>b39303cc2a200210a78156437dac0ce6</update_guid>
+        <update_guid_history>b39303cc2a200210a78156437dac0ce6:-190168794</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:13:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1aa8131dfb174e4eb693fd245ee6e931</sys_id>
+        <sys_metadata>6ecd9093f01c42105dd37db410aa361d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_6ecd9093f01c42105dd37db410aa361d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_6ecd9093f01c42105dd37db410aa361d">f39303cc97200210caadba6de053afe6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:13:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>aecd9093981c4210d8164e051c13f63b</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>fluency</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 19:13:49</sys_created_on>
+        <sys_id>6acd9093981c42109f02b3006eebcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fluency</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_ux_page_registry_6acd9093981c42109f02b3006eebcb3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 19:13:49</sys_updated_on>
+        <title>fluency</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ux_page_registry_6acd9093981c42109f02b3006eebcb3b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>aecd9093981c4210d8164e051c13f63b</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>fluency</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 19:13:49</sys_created_on><sys_id>6acd9093981c42109f02b3006eebcb3b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>fluency</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ux_page_registry_6acd9093981c42109f02b3006eebcb3b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 19:13:49</sys_updated_on><title>fluency</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>584120491</payload_hash>
+        <record_name>fluency</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:13:45</sys_created_on>
+        <sys_id>e793438c97200210caadba6de053afda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc1ee20a60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:13:45</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>a793438cb4200210de0f915807c626da</update_guid>
+        <update_guid_history>a793438cb4200210de0f915807c626da:584120491</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:13:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>b55796a42e0241f9a0e28b777ec076d1</sys_id>
+        <sys_metadata>6acd9093981c42109f02b3006eebcb3b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fluency</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_6acd9093981c42109f02b3006eebcb3b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_6acd9093981c42109f02b3006eebcb3b">e793438c97200210caadba6de053afda</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:13:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

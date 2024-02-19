@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="fluency">7795c05fa55042103c3b32f3bc398058</page>
+        <required_translations>[ {
+  "message" : "New incident",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 17:28:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>3b95c05f3450421068318400c99e223b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_ux_page_property_3b95c05f3450421068318400c99e223b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 17:28:19</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1319361_fluency.7795c05fa55042103c3b32f3bc398058.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New incident"},"routeInfo":{"route":"record","fields":{"table":"x_1319361_fluency_incident","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1319361_fluency_incident","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=3b95c05f3450421068318400c99e223b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ux_page_property_3b95c05f3450421068318400c99e223b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="fluency">7795c05fa55042103c3b32f3bc398058</page><required_translations>[ {
+  "message" : "New incident",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:28:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>3b95c05f3450421068318400c99e223b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ux_page_property_3b95c05f3450421068318400c99e223b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:28:19</sys_updated_on><type>json</type><unique_name>x_1319361_fluency.7795c05fa55042103c3b32f3bc398058.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New incident"},"routeInfo":{"route":"record","fields":{"table":"x_1319361_fluency_incident","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1319361_fluency_incident","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=3b95c05f3450421068318400c99e223b"/></record_update>]]></payload>
+        <payload_hash>-933910558</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>4ac9780397948210caadba6de053af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 17:28:19</sys_created_on>
+        <sys_id>a9a5085f97504210caadba6de053af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db2f63fff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 17:28:19</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>61a5085fe25042102823779308fcfd26</update_guid>
+        <update_guid_history>61a5085fe25042102823779308fcfd26:-933910558,ada5085fd050421084e2289f5a9a6c23:997978162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:36:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>194732f2faa54afca01c2a7e0073d431</sys_id>
+        <sys_metadata>3b95c05f3450421068318400c99e223b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_3b95c05f3450421068318400c99e223b</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_3b95c05f3450421068318400c99e223b">a9a5085f97504210caadba6de053af26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:36:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

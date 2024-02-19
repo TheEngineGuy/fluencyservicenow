@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="fluency">63cbc01b9c144210b4a7400d1ca4e657</dashboard>
+        <group/>
+        <role display_value="x_1319361_fluency.user" name="x_1319361_fluency.user">cac9b80397948210caadba6de053af1b</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 17:55:17</sys_created_on>
+        <sys_id>acdb841b97144210caadba6de053af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>63cbc01b9c144210b4a7400d1ca4e657</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>par_dashboard_permission_acdb841b97144210caadba6de053af13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 17:55:17</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

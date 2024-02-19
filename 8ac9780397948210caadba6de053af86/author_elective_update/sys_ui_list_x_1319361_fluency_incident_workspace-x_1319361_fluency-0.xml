@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1319361_fluency_incident" version="2" view="Workspace-x_1319361_fluency-0">
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>assignedto</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>460bcc9397144210caadba6de053afb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>behavior_rules</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>4a0bcc9397144210caadba6de053afb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>id</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>4e0bcc9397144210caadba6de053afb4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>key</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>420bcc9397144210caadba6de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>key_type</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>460bcc9397144210caadba6de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>risk_score</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>4a0bcc9397144210caadba6de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="DELETE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 17:51:50</sys_created_on>
+            <sys_id>4e0bcc9397144210caadba6de053afb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 17:51:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1319361_fluency_incident</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>7285109b97184210caadba6de053afcc</sys_id>
+            <sys_mod_count/>
+            <sys_name>x_1319361_fluency_incident</sys_name>
+            <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2024-02-19 15:22:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace-x 1319361 fluency-0" name="Workspace-x_1319361_fluency-0">8985d85b7b18421092a1d1fe5f6e4df3</view>
+            <view_name>Workspace-x_1319361_fluency-0</view_name>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ui_list_x_1319361_fluency_incident_Workspace-x_1319361_fluency-0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1319361_fluency_incident" version="2" view="Workspace-x_1319361_fluency-0"><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>assignedto</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>460bcc9397144210caadba6de053afb4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>behavior_rules</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>4a0bcc9397144210caadba6de053afb4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>id</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>4e0bcc9397144210caadba6de053afb4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>key</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>420bcc9397144210caadba6de053afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>key_type</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>460bcc9397144210caadba6de053afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>risk_score</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>4a0bcc9397144210caadba6de053afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>status</element><list_id display_value="x_1319361_fluency_incident" element="NULL" name="x_1319361_fluency_incident" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8a0bcc9397144210caadba6de053afb3</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 17:51:50</sys_created_on><sys_id>4e0bcc9397144210caadba6de053afb5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 17:51:50</sys_updated_on></sys_ui_list_element><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1319361_fluency_incident</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>7285109b97184210caadba6de053afcc</sys_id><sys_mod_count/><sys_name>x_1319361_fluency_incident</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2024-02-19 15:22:24</sys_updated_on><sys_user/><view display_value="Workspace-x 1319361 fluency-0" name="Workspace-x_1319361_fluency-0">8985d85b7b18421092a1d1fe5f6e4df3</view><view_name>Workspace-x_1319361_fluency-0</view_name></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1808059247</payload_hash>
+        <record_name>x_1319361_fluency_incident</record_name>
+        <reverted_from/>
+        <source>4ac9780397948210caadba6de053af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:22:24</sys_created_on>
+        <sys_id>9a95078897600210caadba6de053af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc1f60d5b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:22:24</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>de9507882a600210279e72d3e4652b7e</update_guid>
+        <update_guid_history>de9507882a600210279e72d3e4652b7e:1808059247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 15:22:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>1d683c8491514fc0b6eaf2f47418e729</sys_id>
+        <sys_metadata>c5dbc41b97144210caadba6de053af69</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319361_fluency_incident</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent display_value="">ed50490397588210caadba6de053af45</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1319361_fluency_incident_Workspace-x_1319361_fluency-0</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1319361_fluency_incident_Workspace-x_1319361_fluency-0">9a95078897600210caadba6de053af7f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 15:22:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

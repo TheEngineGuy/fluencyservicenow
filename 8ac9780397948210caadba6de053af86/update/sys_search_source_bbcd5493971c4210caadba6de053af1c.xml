@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1319361_fluency_securityincident">active=true</condition>
+        <group/>
+        <name>fluency - x_1319361_fluency_securityincident</name>
+        <roles/>
+        <source_table>x_1319361_fluency_securityincident</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 19:13:52</sys_created_on>
+        <sys_id>bbcd5493971c4210caadba6de053af1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fluency - x_1319361_fluency_securityincident</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_search_source_bbcd5493971c4210caadba6de053af1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 19:13:52</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=bbcd5493971c4210caadba6de053af1c"/>
+</record_update>

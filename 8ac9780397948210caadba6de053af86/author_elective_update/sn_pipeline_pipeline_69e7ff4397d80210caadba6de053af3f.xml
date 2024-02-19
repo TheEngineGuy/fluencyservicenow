@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline">
+    <sn_pipeline_pipeline action="DELETE">
+        <active>true</active>
+        <name>Test-fluency</name>
+        <pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type>
+        <source_environment display_value="Test-fluency">abb7b7cf97980210caadba6de053af4b</source_environment>
+        <sys_class_name>sn_pipeline_pipeline</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 16:28:34</sys_created_on>
+        <sys_id>69e7ff4397d80210caadba6de053af3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test-fluency</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_69e7ff4397d80210caadba6de053af3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 16:28:34</sys_updated_on>
+    </sn_pipeline_pipeline>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sn_pipeline_pipeline_69e7ff4397d80210caadba6de053af3f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline"><sn_pipeline_pipeline action="INSERT_OR_UPDATE"><active>true</active><name>Test-fluency</name><pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type><source_environment display_value="Test-fluency">abb7b7cf97980210caadba6de053af4b</source_environment><sys_class_name>sn_pipeline_pipeline</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 16:28:34</sys_created_on><sys_id>69e7ff4397d80210caadba6de053af3f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test-fluency</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sn_pipeline_pipeline_69e7ff4397d80210caadba6de053af3f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 16:28:34</sys_updated_on></sn_pipeline_pipeline></record_update>]]></payload>
+        <payload_hash>-1877384739</payload_hash>
+        <record_name>Test-fluency</record_name>
+        <reverted_from/>
+        <source>4ac9780397948210caadba6de053af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 16:28:34</sys_created_on>
+        <sys_id>1af7b34b97d80210caadba6de053af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db2bf8cc80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 16:28:34</sys_updated_on>
+        <type>Pipeline</type>
+        <update_guid>5ef7b34b77d802102e83b91159d1b25c</update_guid>
+        <update_guid_history>5ef7b34b77d802102e83b91159d1b25c:-1877384739</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test-fluency">90d8fb8f97d80210caadba6de053af1c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 16:32:15</sys_created_on>
+        <sys_db_object display_value="" name="sn_pipeline_pipeline">sn_pipeline_pipeline</sys_db_object>
+        <sys_id>151e58252aea4f34a4c11c70e4fe2390</sys_id>
+        <sys_metadata>69e7ff4397d80210caadba6de053af3f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test-fluency</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sn_pipeline_pipeline_69e7ff4397d80210caadba6de053af3f</sys_update_name>
+        <sys_update_version display_value="sn_pipeline_pipeline_69e7ff4397d80210caadba6de053af3f">1af7b34b97d80210caadba6de053af5d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 16:32:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

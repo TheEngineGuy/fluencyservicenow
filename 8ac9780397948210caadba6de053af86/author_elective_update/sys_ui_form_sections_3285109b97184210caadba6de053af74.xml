@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="3285109b97184210caadba6de053af74" sys_domain="global" table="x_1319361_fluency_securityincident" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1319361_fluency_securityincident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 18:37:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3285109b97184210caadba6de053af74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1319361_fluency_securityincident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3285109b97184210caadba6de053af74</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 18:37:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace-x 1319361 fluency-0" name="Workspace-x_1319361_fluency-0">8985d85b7b18421092a1d1fe5f6e4df3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ui_form_sections_3285109b97184210caadba6de053af74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="3285109b97184210caadba6de053af74" sys_domain="global" table="x_1319361_fluency_securityincident" version="3"><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1319361_fluency_securityincident</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 18:37:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3285109b97184210caadba6de053af74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1319361_fluency_securityincident</sys_name><sys_overrides/><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ui_form_sections_3285109b97184210caadba6de053af74</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 18:37:46</sys_updated_on><sys_user/><view display_value="Workspace-x 1319361 fluency-0" name="Workspace-x_1319361_fluency-0">8985d85b7b18421092a1d1fe5f6e4df3</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1255415786</payload_hash>
+        <record_name>securityIncident</record_name>
+        <reverted_from/>
+        <source>4ac9780397948210caadba6de053af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:37:46</sys_created_on>
+        <sys_id>fa85109b97184210caadba6de053af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db335d4f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:37:46</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>3285109b07184210ab333f7c62041476</update_guid>
+        <update_guid_history>3285109b07184210ab333f7c62041476:1255415786</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 19:13:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>843c9a98615c43c4a9cc464b829bd590</sys_id>
+        <sys_metadata>3285109b97184210caadba6de053af74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319361_fluency_securityincident</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent display_value="securityIncident">d8ff001797944210caadba6de053af1f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_3285109b97184210caadba6de053af74</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_3285109b97184210caadba6de053af74">fa85109b97184210caadba6de053af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 19:13:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

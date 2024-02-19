@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>A default view for fluency generated</description>
+        <name>view</name>
+        <page display_value="fluency">c5851c5b03184210622ef0834dad250a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:37:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0185d85b78184210368a82bf9c3f9fe1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_update_name>sys_ux_page_property_0185d85b78184210368a82bf9c3f9fe1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:37:46</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1319361_fluency.c5851c5b03184210622ef0834dad250a.root.view</unique_name>
+        <value>workspace-fluency-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=0185d85b78184210368a82bf9c3f9fe1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="fluency">8ac9780397948210caadba6de053af86</application>
+        <file_path/>
+        <instance_id>77b8fa19db7ef914b1eb9027c59619ec</instance_id>
+        <instance_name>dev227120</instance_name>
+        <name>sys_ux_page_property_0185d85b78184210368a82bf9c3f9fe1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>A default view for fluency generated</description><name>view</name><page display_value="fluency">c5851c5b03184210622ef0834dad250a</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-16 18:37:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>0185d85b78184210368a82bf9c3f9fe1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>view</sys_name><sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package><sys_policy/><sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope><sys_update_name>sys_ux_page_property_0185d85b78184210368a82bf9c3f9fe1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-16 18:37:46</sys_updated_on><type>string</type><unique_name>x_1319361_fluency.c5851c5b03184210622ef0834dad250a.root.view</unique_name><value>workspace-fluency-0</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=0185d85b78184210368a82bf9c3f9fe1"/></record_update>]]></payload>
+        <payload_hash>-781570081</payload_hash>
+        <record_name>view</record_name>
+        <reverted_from/>
+        <source>4ac9780397948210caadba6de053af88</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 18:37:46</sys_created_on>
+        <sys_id>fa85109b97184210caadba6de053afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db335d6370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 18:37:46</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>f285109bb21842102a4876480f5cb5d3</update_guid>
+        <update_guid_history>f285109bb21842102a4876480f5cb5d3:-781570081,be85109b7b1842100e79f029f589ced1:611722529</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 19:12:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>431c8224b18c45ab942971863f638369</sys_id>
+        <sys_metadata>0185d85b78184210368a82bf9c3f9fe1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="fluency" source="x_1319361_fluency">8ac9780397948210caadba6de053af86</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="fluency">8ac9780397948210caadba6de053af86</sys_scope>
+        <sys_scope_delete display_value="">6f52b4ad77af4edcb06faacd42663790</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_0185d85b78184210368a82bf9c3f9fe1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_0185d85b78184210368a82bf9c3f9fe1">fa85109b97184210caadba6de053afd3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 19:12:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
